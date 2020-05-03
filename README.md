@@ -15,7 +15,7 @@
 |[문제 01. 1부터 n까지의 합 구하기](https://github.com/kjihee/algopy/blob/master/chaewoon/Q1.1부터n까지의%20합구하기.pdf)|김채운|20.05.03|
 |[문제 02. 최댓값 찾기](https://github.com/kjihee/algopy/blob/master/jihee/presentation/algopy_1.pdf)|김지희|20.05.03|
 |[문제 03. 동명이인 찾기 1](https://github.com/kjihee/algopy/blob/master/yehoon/presentation/ch1-3.pdf)|장예훈|20.05.03|
-|[문제 04. 팩토리얼 구하기]()|임성준|20.05.03|
+|[문제 04. 팩토리얼 구하기](https://github.com/kjihee/algopy/blob/master/sungjun/factorial.pdf)|임성준|20.05.03|
 |[문제 05. 최대공약수 구하기]()|김지희|20.05.10|
 |[문제 06. 하노이의 탑 옮기기]()|임성준|20.05.10|
 |[문제 07. 순차 탐색]()|김채운|20.05.10|
